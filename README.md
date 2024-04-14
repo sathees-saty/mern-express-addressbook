@@ -83,7 +83,6 @@ npm start
 <br>
 Step 2: The browser will automatically open tab with home page. http://localhost:3000/
 <br>
-<img src="https://github.com/sathees-saty/mern-express-addressbook/assets/65384711/e3fa61f1-987c-4415-ac43-e3eff48eecb2" alt="" width="500" height="600">
 ![image](https://github.com/sathees-saty/mern-express-addressbook/assets/65384711/e3fa61f1-987c-4415-ac43-e3eff48eecb2)
 <br>
 
