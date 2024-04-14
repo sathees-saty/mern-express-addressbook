@@ -86,9 +86,7 @@ Step 2: The browser will automatically open tab with home page. http://localhost
 <img src="https://github.com/sathees-saty/mern-express-addressbook/assets/65384711/e3fa61f1-987c-4415-ac43-e3eff48eecb2" alt="" width="500" height="600">
 ![image](https://github.com/sathees-saty/mern-express-addressbook/assets/65384711/e3fa61f1-987c-4415-ac43-e3eff48eecb2)
 <br>
-![image](https://github.com/sathees-saty/mern-express-addressbook/assets/65384711/529b9842-5d15-4346-82bc-fab4518d99fb)
 
-<br>
 ![image](https://github.com/sathees-saty/mern-express-addressbook/assets/65384711/8b858294-3044-4c20-acb6-4f7f4303fc4b)
 
 <br>
